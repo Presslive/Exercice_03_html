@@ -1,0 +1,51 @@
+body {
+    font-family: verdana;
+    font-size: 12px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: Silver;
+}
+
+h1,
+h2,
+h3 {
+    font-size: 2.5em;
+}
+
+.nav-pills a {
+    color: white;
+}
+
+.changement1 {
+    color: white;
+    background-color: darkslategray;
+}
+
+.changement2 {
+    color: white;
+    background-color: darkslategray;
+    border: 1px solid black;
+}
+
+.changement3 {
+    background-color: darkslategray;
+    border-left: 2px solid red;
+    border-right: 2px solid red;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+}
+
+.changement4 {
+    color: brown;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.2em;
+    border-top: 2px solid olive;
+}
+
+.changement5 {
+    border: 2px solid blue;
+    background-color: darkslategray;
+    padding: 5px;
+}
